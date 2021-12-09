@@ -1,6 +1,6 @@
 # MOC_Python
 **Author**
-- [Muhammad Waqar](linkedin.com/in/waqar-muh) (mwaqar@connect.ust.hk)
+- [Muhammad Waqar](https://www.linkedin.com/in/waqar-muh/) (mwaqar@connect.ust.hk)
 
 **Affiliation**
 - PhD Candidate, The Hong Kong University of Science and Technology
